@@ -2,4 +2,4 @@
 Проект: Сайт интернет-магазина
 Имя Фамилия — Сергей Дунин
 логин на GitHub — DuninSB
-e-mail — укажите свой duninsb@gmail.com
+e-mail — duninsb@gmail.com
