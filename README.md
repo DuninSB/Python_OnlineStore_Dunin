@@ -1,2 +1,5 @@
-# Python_OnlineStore_Dunin
-Cайт интернет-магазина
+# Python_OnlineStore_Duni
+Проект: Сайт интернет-магазина
+Имя Фамилия — Сергей Дунин
+логин на GitHub — DuninSB
+e-mail — укажите свой duninsb@gmail.com
